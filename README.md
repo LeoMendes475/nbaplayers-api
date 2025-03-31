@@ -25,15 +25,10 @@ cp .env.example .env
 
 ### 🔹 3. Configure as variáveis de ambiente no `.env`
 
-Edite o arquivo `.env` e configure as conexões do banco de dados:
+Edite o arquivo `.env` e configure as conexões da api BALLDONTLIE:
 
 ```ini
-DB_CONNECTION=mysql
-DB_HOST=mysql
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=root
+BALLDONTLIE_API_KEY=''
 ```
 
 ---
@@ -80,7 +75,7 @@ php artisan key:generate
 ### 🔹 9. Execute as migrações do banco de dados
 
 ```sh
-php artisan migrate --seed
+php artisan migrate
 ```
 
 ---
