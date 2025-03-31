@@ -5,8 +5,6 @@ Este projeto utiliza **Docker** para rodar um ambiente Laravel de forma rápida 
 -   **PHP 8.x**
 -   **MySQL**
 -   **NGINX**
--   **Redis** (Opcional)
--   **Adminer** (Opcional)
 
 ---
 
