@@ -163,7 +163,7 @@ services:
 
 ---
 
-## 🔄 Testando uma rota da API
+## 🔄 Iniciando a base de players com uma rota da API
 
 Após iniciar o projeto, você precisa rodar essa rota para conseguir atualizar todos os jogadores da base
 
