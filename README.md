@@ -166,4 +166,5 @@ services:
 ## 🔗 Repositório do Postman
 
 Adicione aqui o link para os repositórios do Postman com as requisições da API.
-a
+
+undefined/workspace/nbaplayers/collection/27038375-b8b96ef7-0f74-4536-8e7b-4c577b4f5ad0?action=share&creator=27038375&active-environment=27038375-e3d561ca-0716-4869-bbfa-21ea7cbcbee3
