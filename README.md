@@ -163,8 +163,12 @@ services:
 
 ---
 
-## 🔗 Repositório do Postman
+## 🔄 Testando uma rota da API
 
-Adicione aqui o link para os repositórios do Postman com as requisições da API.
+Após iniciar o projeto, você precisa rodar essa rota para conseguir atualizar todos os jogadores da base
 
-undefined/workspace/nbaplayers/collection/27038375-b8b96ef7-0f74-4536-8e7b-4c577b4f5ad0?action=share&creator=27038375&active-environment=27038375-e3d561ca-0716-4869-bbfa-21ea7cbcbee3
+### 🔹 Listar todos os jogadores
+
+```sh
+curl -X GET http://localhost:80/api/fetch-and-save -H "Accept: application/json"
+```
