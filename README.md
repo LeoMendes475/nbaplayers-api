@@ -13,8 +13,8 @@ Este projeto utiliza **Docker** para rodar um ambiente Laravel de forma rápida 
 ### 🔹 1. Clone o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/LeoMendes475/nbaplayers-api.git
+cd nbaplayers-api
 ```
 
 ### 🔹 2. Copie o arquivo `.env.example` para `.env`
